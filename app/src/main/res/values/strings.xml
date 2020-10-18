@@ -29,6 +29,17 @@
     <string name="tv_select_your_pizza_toppings">Select your pizza toppings</string>
     <string name="tv_welcome_to_pizza_house">Welcome to Pizza House !</string>
     <string name="tv_select_pizza_from_context_menu">Select Pizza from Context Menu</string>
+    <string name="tv_full_name">Full Name:</string>
+    <string name="tv_mobile_no">Mobile No:</string>
+    <string name="tv_postalcode">PostalCode:</string>
+    <string name="tv_card_no">Card No:</string>
+    <string name="tv_address">Address</string>
+    <string name="hint_postal_code">A1A1A1</string>
+    <string name="tv_cardtype">CardType</string>
+    <string name="customer_detail_next">Next</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="hint_expiry_date">MM/YYYY</string>
+    <string name="tv_cardexpiry">CardExpiry</string>
     <string-array name="payment_cardtype">
         <item>Visa</item>
         <item>Master</item>

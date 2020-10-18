@@ -14,7 +14,7 @@
             android:parentActivityName=".MainActivity">
 
         </activity>
-        <activity android:name=".SplashScreenActivity" />
+        <activity android:name=".MainActivity" />
         <activity
             android:name=".OrderDetailActivity"
             android:parentActivityName=".MainActivity">
@@ -51,7 +51,9 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".SplashScreenActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

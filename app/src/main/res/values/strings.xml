@@ -21,6 +21,14 @@
     <string name="toppings_smokedham">Smoked Ham</string>
     <string name="toppings_spinach">Spinach</string>
     <string name="toppings_blackolives">Black Olives</string>
+    <string name="btn_choose_toppings_next">Next</string>
+    <string name="tv_select_your_pizza_size">Select your pizza size</string>
+    <string name="image_pizza_slice">pizza slice</string>
+    <string name="checkout_next">Next</string>
+    <string name="pizza_topping_image">pizza topping image</string>
+    <string name="tv_select_your_pizza_toppings">Select your pizza toppings</string>
+    <string name="tv_welcome_to_pizza_house">Welcome to Pizza House !</string>
+    <string name="tv_select_pizza_from_context_menu">Select Pizza from Context Menu</string>
     <string-array name="payment_cardtype">
         <item>Visa</item>
         <item>Master</item>

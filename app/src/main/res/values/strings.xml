@@ -21,11 +21,46 @@
     <string name="toppings_smokedham">Smoked Ham</string>
     <string name="toppings_spinach">Spinach</string>
     <string name="toppings_blackolives">Black Olives</string>
+
     <string name="btn_next">Next</string>
     <string name="tv_full_name">Full Name:</string>
+
+    <string name="btn_choose_toppings_next">Next</string>
+    <string name="tv_select_your_pizza_size">Select your pizza size</string>
+    <string name="image_pizza_slice">pizza slice</string>
+    <string name="checkout_next">Next</string>
+    <string name="pizza_topping_image">pizza topping image</string>
+    <string name="tv_select_your_pizza_toppings">Select your pizza toppings</string>
+    <string name="tv_welcome_to_pizza_house">Welcome to Pizza House !</string>
+    <string name="tv_select_pizza_from_context_menu">Select Pizza from Context Menu</string>
+    <string name="tv_mobile_no">Mobile No:</string>
+    <string name="tv_postalcode">PostalCode:</string>
+    <string name="tv_card_no">Card No:</string>
+    <string name="tv_address">Address</string>
+    <string name="hint_postal_code">A1A1A1</string>
+    <string name="tv_cardtype">CardType</string>
+    <string name="customer_detail_next">Next</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="hint_expiry_date">MM/YYYY</string>
+    <string name="tv_cardexpiry">CardExpiry</string>
+
     <string-array name="payment_cardtype">
         <item>Visa</item>
         <item>Master</item>
         <item>Mestro</item>
+    </string-array>
+
+    <string-array name="toppings_array">
+        <item>Cheese</item>
+        <item>Green Pepper</item>
+        <item>Smoked Ham</item>
+        <item>Spinach</item>
+        <item>Black Olives</item>
+    </string-array>
+    <string-array name="pizza_size_array">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra Large</item>
     </string-array>
 </resources>
